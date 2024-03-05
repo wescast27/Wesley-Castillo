@@ -15,3 +15,5 @@ welcome to my profile
 ## Education
 ### University of Denver, Daniels College of Business
 Bachelor of Science Business Administration – Business Information and Analytics, June 2024
+
+![image](https://github.com/wescast27/Wesley-Castillo/assets/162179914/b5daf4af-412f-4664-8e0b-1570ee60501c)
