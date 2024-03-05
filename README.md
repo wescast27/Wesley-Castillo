@@ -27,7 +27,7 @@ Relevant Classes
 </ul>
 
 ## Jobs and Internships
-<i>See my [resume] (/Resume (edited) (Wes Castillo).pdf) and [LinkedIn](https://www.linkedin.com/in/wesley-castillo-80524a271/)</i>
+<i>See my resume in the repository and my [LinkedIn](https://www.linkedin.com/in/wesley-castillo-80524a271/)</i>
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
