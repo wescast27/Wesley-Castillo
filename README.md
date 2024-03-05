@@ -17,12 +17,12 @@ Welcome to my profile, please look around.
 ### University of Denver, Daniels College of Business
 Bachelor of Science Business Administration – Business Information and Analytics, June 2024
 
-<br>
+
 ### Prague University of Economics & Business
 Study Abroad
-<br>
 
-Relevant Classes
+
+## Relevant Classes
 
 <ul>
   <li><b>Complex Data Analytics</b>: This class explored text analtics in various contexts, and taught complex data representation methods.</li>
