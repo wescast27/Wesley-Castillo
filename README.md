@@ -63,7 +63,7 @@ Relevant Classes
     </td>
     <td>
      <ul>
-        <li>Azure Data Fundamentals</li>
+        <li><b>Microsoft Azure Data Fundamentals</b></li>
         <li><i>More coming soon!<i></li>
       </ul>
     </td>
