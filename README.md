@@ -26,6 +26,9 @@ Relevant Classes
   <li><b>Project Management and Simulation</b>: Introduced techniques for project simulations, and honed hands on project management skills with group work and projects.</li>
 </ul>
 
+<a name="profExp"></a>
+<hr>
+
 ## Jobs and Internships
 <i>See my resume in the repository and my [LinkedIn](https://www.linkedin.com/in/wesley-castillo-80524a271/) here.</i>
 
