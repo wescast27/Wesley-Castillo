@@ -69,23 +69,24 @@ Relevant Classes
     </td>
   </tr>
   <tr>
-    <th>CliftonStrengths (Fall 2018)</th>
+    <th>Strengths</th>
     <th>Other Skills</th>
  </tr>
  <tr>
    <td>
      <ol>
-        <li>Responsibility</li>
-        <li>Learner</li>
-        <li>Discipline</li>
-        <li>Developer</li>
-        <li>Achiever</li>
+        <li>Loyalty</li>
+        <li>Commitment to Others</li>
+        <li>Attention to Detail</li>
+        <li>Reliability</li>
+        <li>Creativity and Innovation</li>
      </ol>
    </td>
    <td>
      <ul>
-        <li>Teaching</li>
-        <li>Facilitating</li>
+        <li>Writing</li>
+        <li>Photoshop</li>
+        <li>Drawing and Design</li>
        <li>Problem Solving</li>
      </ul>
    </td>
