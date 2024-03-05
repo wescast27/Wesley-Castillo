@@ -17,10 +17,10 @@ Welcome to my profile, please look around.
 ### University of Denver, Daniels College of Business
 Bachelor of Science Business Administration – Business Information and Analytics, June 2024
 
-
+<br>
 ### Prague University of Economics & Business
 Study Abroad
-
+<br>
 
 Relevant Classes
 
