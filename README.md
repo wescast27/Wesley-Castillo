@@ -20,7 +20,7 @@ Relevant Classes
 
 <ul>
   <li><b>Complex Data Analytics</b>: This class explored text analtics in various contexts, and taught complex data representation methods.</li>
-  <li><b>Optimization Modelling</b>: This class taught methods for Optimization Modelling using Python, and continued to emphasize a focus on business solutions.</li>
+  <li><b>Optimization Modelling</b>: This class taught methods for optimization modelling using Python, and continued to emphasize a focus on business solutions.</li>
   <li><b>Enterprise Information Management</b>: Taught crucial application skills in SQLServer and VisualStudio. Created databases with a purpose while focusing on implementing AI solutions.</li>
   <li><b>Data Warehousing and Business Intelligence</b>: Expanded on the usage of SQLServer and Visual Studio. I learned more essential technical skills in Power Bi, and worked on the full process of populating and using a Data Mart.</li>
   <li><b>Project Management and Simulation</b>: Introduced techniques for project simulations, and honed hands on project management skills with group work and projects.</li>
