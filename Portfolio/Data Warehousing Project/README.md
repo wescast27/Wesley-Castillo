@@ -19,7 +19,7 @@ In this project we will not worry about things like shows with several comics, o
 Some business questions this database should answer will be, what day performs the best, (according to attendance and sales)?  What comics have the highest sales?  What comics have the highest attendance?  What show performed the best?  What show performed the worst? What comic performed the worst? We can also ask questions related to comparing performance between demographic info of customers. Etc.  The focus of this project is to conduct the steps necessary to create and populate a data mart, and to demonstrate the ability to conduct analysis in a way that demonstrates ability in key data analysis programs.
 
 <br>
-<br><img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>(#top)
+<br><img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>
 
 <a name="DataMartDesign"></a>
 <hr>
