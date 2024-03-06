@@ -50,6 +50,9 @@ See <b>"ComedyCDM Script - 1.sql"<b> in the Data Warehousing Project in my repos
 ## Extract, Transform, and Load the Data Mart
 Using SSIS and Visual Studio, data is transferred from the Comedy Club DB and into the created Comedy Club DM
 
+<br>
+<i>To be updated shortly as the project continues!<i>
+
 <a name="PowerPivot"></a>
 <hr>
 	
