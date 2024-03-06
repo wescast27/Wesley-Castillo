@@ -9,6 +9,6 @@
 
 ## Resume items
 
-Here is my work experiences, my full resume can be viewwed in the main files of this repository [Resume (edited (Wes Castillo).pdf]
+Here is my work experiences, my full resume can be viewed in the main files of this repository [Resume (edited (Wes Castillo).pdf].
 
 ![image](https://github.com/wescast27/Wesley-Castillo/assets/162179914/6a5a8e1f-9e1e-42e0-aa5c-fd445f07da71)
