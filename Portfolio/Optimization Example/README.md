@@ -2,7 +2,7 @@
 
 ## Comparing the outcome of a Simple Optimization done with and without GAI Tools (ChatGPT 4.0)
 
-This assignment is comprised of three major questions that can all be found in the Optimization Example folder.  The purpose is to measure the prowess of ai tools in generating code and solving a simple optimization problem.
+This assignment is comprised of <b><i>three major questions that can all be found in the Optimization Example folder<i><b>.  The purpose is to measure the prowess of ai tools in generating code and solving a simple optimization problem.
 
 ## The Prompt
 
