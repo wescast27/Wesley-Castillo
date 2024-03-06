@@ -40,7 +40,7 @@ Some business questions this database should answer will be, what day performs t
 
 The ComedyCDB script creates the Comedy Club Data mart including all relevant tables, dimensions, and attributes.  The script is set up to delete the tables if they exist and create them again, meaning it should run without errors regardless of how many times you run it.
 
-See "ComedyCDM Script - 1.sql in the Data Warehousing Project in my repository.
+See <b>"ComedyCDM Script - 1.sql"<b> in the Data Warehousing Project in my repository.
 <br>
 <br>[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 	
